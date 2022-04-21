@@ -1,0 +1,11 @@
+{
+  "executeEveryHour": "12",
+  "minRewards": 20000,
+  "wallets": [
+    {
+      "name": "Wallet Name",
+      "address": "XXX"
+    }
+  ],
+  "webhookUrl" : "XXX"
+}

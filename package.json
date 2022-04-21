@@ -1,0 +1,11 @@
+{
+  "name": "compounder-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "@elrondnetwork/erdjs": "^9.2.3",
+    "axios": "^0.26.1",
+    "bignumber.js": "^9.0.2",
+    "node-cron": "^3.0.0",
+    "pm2": "^5.2.0"
+  }
+}

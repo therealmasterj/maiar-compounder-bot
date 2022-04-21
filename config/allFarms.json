@@ -1,0 +1,696 @@
+{
+  "data": {
+    "farms": [
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqye633y7k0zd7nedfnp3m48h24qygm5jl2jpslxallh",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDMEXLPStaked",
+          "collection": "EGLDMEXF-5bcc57",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDMEXLP",
+          "identifier": "EGLDMEX-0be9e5",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Migrate",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.2",
+        "rewardType": null,
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqsw9pssy8rchjeyfh8jfafvl3ynum0p9k2jps6lwewp",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDUSDCLPStaked",
+          "collection": "EGLDUSDCF-8600f8",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDUSDCLP",
+          "identifier": "EGLDUSDC-594e5e",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Migrate",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.2",
+        "rewardType": null,
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqv4ks4nzn2cw96mm06lt7s2l3xfrsznmp2jpsszdry5",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "MEXStaked",
+          "collection": "MEXFARM-e7af52",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Migrate",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.2",
+        "rewardType": null,
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqnqvjnn4haygsw2hls2k9zjjadnjf9w7g2jpsmc60a4",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDMEXLPStaked",
+          "collection": "EGLDMEXF-a4d81e",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDMEXLP",
+          "identifier": "EGLDMEX-0be9e5",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "unlockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqutddd7dva0x4xmehyljp7wh7ecynag0u2jpskxx6xt",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDUSDCLPStaked",
+          "collection": "EGLDUSDCF-e3e01e",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDUSDCLP",
+          "identifier": "EGLDUSDC-594e5e",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "unlockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqe9v45fnpkv053fj0tk7wvnkred9pms892jps9lkqrn",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "MEXStaked",
+          "collection": "MEXFARM-5d1dbb",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "unlockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqs2puacesqywt84jawqenmmree20uj80d2jpsefuka9",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDRIDELPStaked",
+          "collection": "EGLDRIDEF-6c5d7c",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDRIDELP",
+          "identifier": "EGLDRIDE-7bd51a",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "unlockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqyawg3d9r4l27zue7e9sz7djf7p9aj3sz2jpsm070jf",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDMEXLPStakedLK",
+          "collection": "EGLDMEXFL-ef2065",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDMEXLP",
+          "identifier": "EGLDMEX-0be9e5",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "lockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqwtzqckt793q8ggufxxlsv3za336674qq2jpszzgqra",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDUSDCLPStakedLK",
+          "collection": "EGLDUSDCFL-f0031c",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDUSDCLP",
+          "identifier": "EGLDUSDC-594e5e",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "lockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgq7qhsw8kffad85jtt79t9ym0a4ycvan9a2jps0zkpen",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "MEXStakedLK",
+          "collection": "MEXFARML-28d646",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "lockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqs2mmvzpu6wz83z3vthajl4ncpwz67ctu2jpsrcl0ct",
+        "farmedToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "EGLDRIDELPStakedLK",
+          "collection": "EGLDRIDEFL-74b819",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "EGLDRIDELP",
+          "identifier": "EGLDRIDE-7bd51a",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 100,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "lockedRewards",
+        "requireWhitelist": false,
+        "__typename": "FarmModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgq5e2m9df5yxxkmr86rusejc979arzayjk2jpsz2q43s",
+        "farmedToken": {
+          "name": "holoride",
+          "identifier": "RIDE-7d18e9",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "farmToken": {
+          "name": "MEXRIDEStaked",
+          "collection": "MEXRIDEF-bf0320",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmingToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "penaltyPercent": 0,
+        "minimumFarmingEpochs": 3,
+        "version": "v1.3",
+        "rewardType": "customRewards",
+        "requireWhitelist": true,
+        "__typename": "FarmModel"
+      }
+    ],
+    "pairs": [
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqa0fsfshnff4n76jhcye6k7uvd7qacsq42jpsp6shh2",
+        "firstToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "EGLDMEXLP",
+          "identifier": "EGLDMEX-0be9e5",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Core",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+        "firstToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedUSDC",
+          "identifier": "USDC-c76f1f",
+          "decimals": 6,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "EGLDUSDCLP",
+          "identifier": "EGLDUSDC-594e5e",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Core",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqav09xenkuqsdyeyy5evqyhuusvu4gl3t2jpss57g8x",
+        "firstToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "holoride",
+          "identifier": "RIDE-7d18e9",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "EGLDRIDELP",
+          "identifier": "EGLDRIDE-7bd51a",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Core",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqmcy3q34wpppkuw9wxkvtewmrvw374fuf2jpsr74zvl",
+        "firstToken": {
+          "name": "holoride",
+          "identifier": "RIDE-7d18e9",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedUSDC",
+          "identifier": "USDC-c76f1f",
+          "decimals": 6,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "RIDEUSDCLP",
+          "identifier": "RIDEUSDC-048b09",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Inactive",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Experimental",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqv0c22xku4vd5ugfh0u53tqufmdkqx5nv2jps8vsccx",
+        "firstToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedUSDC",
+          "identifier": "USDC-c76f1f",
+          "decimals": 6,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "MEXUSDCLP",
+          "identifier": "MEXUSDC-a57860",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Inactive",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Experimental",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqlua48ucypscl7xm4wp9cq56yf7wey3702jpskgq7td",
+        "firstToken": {
+          "name": "holoride",
+          "identifier": "RIDE-7d18e9",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "MEX",
+          "identifier": "MEX-455c57",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "RIDEMEXLP",
+          "identifier": "RIDEMEX-837ff2",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Inactive",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Experimental",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqtww2tqnm3u4q64qzhm7dxjtnfsn642z22jps9h8qqt",
+        "firstToken": {
+          "name": "Web",
+          "identifier": "WEB-b61d65",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "WEBWEGLDLP",
+          "identifier": "WEBWEGLD-d2a73b",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Inactive",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Experimental",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqh3c7mg0dfe5z0t3468wwp08xz3ex25ah2jpsv4pcdl",
+        "firstToken": {
+          "name": "IsengardToken",
+          "identifier": "ISET-84e55e",
+          "decimals": 6,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "ISETEGLDLP",
+          "identifier": "ISETEGLDLP-86715a",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Community",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgq33a5u0szqcnheazacemez3tvvwp957lg2jps5r20dj",
+        "firstToken": {
+          "name": "SUPER",
+          "identifier": "SUPER-764d8d",
+          "decimals": 0,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "SUPEREGLDLP",
+          "identifier": "SUPEREGLD-1f7908",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "ActiveNoSwaps",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Experimental",
+        "__typename": "PairModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgqzjctu8xrgn8jmfp503tajjvzz2zq60v92jpsslkh5a",
+        "firstToken": {
+          "name": "Aerovek",
+          "identifier": "AERO-458bbf",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "secondToken": {
+          "name": "WrappedEGLD",
+          "identifier": "WEGLD-bd4d79",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "liquidityPoolToken": {
+          "name": "AEROWEGLDLP",
+          "identifier": "AEROWEGLD-81cc37",
+          "decimals": 18,
+          "__typename": "EsdtToken"
+        },
+        "state": "Active",
+        "totalFeePercent": 0.003,
+        "specialFeePercent": 0.0005,
+        "type": "Community",
+        "__typename": "PairModel"
+      }
+    ],
+    "proxy": {
+      "address": "erd1qqqqqqqqqqqqqpgqrc4pg2xarca9z34njcxeur622qmfjp8w2jps89fxnl",
+      "wrappedLpToken": {
+        "collection": "LKLP-03a2fa",
+        "name": "LockedLP",
+        "decimals": 18,
+        "__typename": "NftCollection"
+      },
+      "wrappedFarmToken": {
+        "collection": "LKFARM-9d1ea8",
+        "name": "LockedLPStaked",
+        "decimals": 18,
+        "__typename": "NftCollection"
+      },
+      "lockedAssetToken": {
+        "collection": "LKMEX-aab910",
+        "name": "LockedMEX",
+        "decimals": 18,
+        "__typename": "NftCollection"
+      },
+      "assetToken": {
+        "identifier": "MEX-455c57",
+        "name": "MEX",
+        "decimals": 18,
+        "__typename": "EsdtToken"
+      },
+      "intermediatedPairs": [
+        "erd1qqqqqqqqqqqqqpgqa0fsfshnff4n76jhcye6k7uvd7qacsq42jpsp6shh2"
+      ],
+      "intermediatedFarms": [
+        "erd1qqqqqqqqqqqqqpgqye633y7k0zd7nedfnp3m48h24qygm5jl2jpslxallh",
+        "erd1qqqqqqqqqqqqqpgqv4ks4nzn2cw96mm06lt7s2l3xfrsznmp2jpsszdry5",
+        "erd1qqqqqqqqqqqqqpgq5e2m9df5yxxkmr86rusejc979arzayjk2jpsz2q43s",
+        "erd1qqqqqqqqqqqqqpgqnqvjnn4haygsw2hls2k9zjjadnjf9w7g2jpsmc60a4",
+        "erd1qqqqqqqqqqqqqpgqyawg3d9r4l27zue7e9sz7djf7p9aj3sz2jpsm070jf",
+        "erd1qqqqqqqqqqqqqpgqe9v45fnpkv053fj0tk7wvnkred9pms892jps9lkqrn",
+        "erd1qqqqqqqqqqqqqpgq7qhsw8kffad85jtt79t9ym0a4ycvan9a2jps0zkpen"
+      ],
+      "__typename": "ProxyModel"
+    },
+    "stakingProxies": [
+      {
+        "address": "erd1qqqqqqqqqqqqqpgq2ymdr66nk5hx32j2tqdeqv9ajm9dj9uu2jps3dtv6v",
+        "dualYieldToken": {
+          "collection": "METARIDE-a68897",
+          "name": "MetaStakedRide",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmToken": {
+          "collection": "SRIDE-4ab1d4",
+          "name": "StakedRIDE",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "lpFarmToken": {
+          "collection": "EGLDRIDEF-6c5d7c",
+          "name": "EGLDRIDELPStaked",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "lpFarmAddress": "erd1qqqqqqqqqqqqqpgqs2puacesqywt84jawqenmmree20uj80d2jpsefuka9",
+        "pairAddress": "erd1qqqqqqqqqqqqqpgqav09xenkuqsdyeyy5evqyhuusvu4gl3t2jpss57g8x",
+        "stakingFarmAddress": "erd1qqqqqqqqqqqqqpgqmqq78c5htmdnws8hm5u4suvags36eq092jpsaxv3e7",
+        "__typename": "StakingProxyModel"
+      },
+      {
+        "address": "erd1qqqqqqqqqqqqqpgq389gc8qnqy0ksha948jf72c9cks9g3rf2jpsl5z0aa",
+        "dualYieldToken": {
+          "collection": "METARIDELK-bd8cda",
+          "name": "MetaStakedRideLK",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "farmToken": {
+          "collection": "SRIDE-4ab1d4",
+          "name": "StakedRIDE",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "lpFarmToken": {
+          "collection": "EGLDRIDEFL-74b819",
+          "name": "EGLDRIDELPStakedLK",
+          "decimals": 18,
+          "__typename": "NftCollection"
+        },
+        "lpFarmAddress": "erd1qqqqqqqqqqqqqpgqs2mmvzpu6wz83z3vthajl4ncpwz67ctu2jpsrcl0ct",
+        "pairAddress": "erd1qqqqqqqqqqqqqpgqav09xenkuqsdyeyy5evqyhuusvu4gl3t2jpss57g8x",
+        "stakingFarmAddress": "erd1qqqqqqqqqqqqqpgqmqq78c5htmdnws8hm5u4suvags36eq092jpsaxv3e7",
+        "__typename": "StakingProxyModel"
+      }
+    ]
+  }
+}
